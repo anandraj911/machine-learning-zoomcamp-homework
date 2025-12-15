@@ -1,3 +1,2 @@
-# machine-learning-zoomcamp-homework
-Repository for homework
-Hello World
+# README
+Hello World!
